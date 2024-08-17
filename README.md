@@ -39,6 +39,9 @@ Load the saved model and make predictions on new images using the provided funct
 ## Results
 The model achieved a weighted F1 score of 0.91, indicating good performance across all classes in the Fashion MNIST dataset.
 
+## Confusion Matrix:
+
+
 
 
 # Fashion MNIST Classification with TensorFlow
