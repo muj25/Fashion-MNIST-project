@@ -40,7 +40,13 @@ Load the saved model and make predictions on new images using the provided funct
 The model achieved a weighted F1 score of 0.91, indicating good performance across all classes in the Fashion MNIST dataset.
 
 ## Confusion Matrix:
+![pytorch-cm](https://github.com/user-attachments/assets/71d75ace-fac7-4b1e-a16b-a426f03ae76b)
 
+## Classification Report:
+![pytorch-cr](https://github.com/user-attachments/assets/942f4dee-ed27-418d-a8fd-07ecc92b34f6)
+
+## Model loss and accuracy:
+![pytorch-traning-loss-accuracy](https://github.com/user-attachments/assets/9a0beaac-208b-479b-bbe7-0aad2121c175)
 
 
 
@@ -81,5 +87,17 @@ Run the provided Python script to train the model, visualize results, and save t
 ### Model Prediction:
 Load the saved model and make predictions on new or existing images using the provided functions.
 
-Results
+## Results
 The model achieved a test accuracy of 88.28%, indicating good performance in classifying images from the Fashion MNIST dataset.
+
+## Confusion Matrix:
+![tensorflow-cm](https://github.com/user-attachments/assets/326ccfff-549d-4dc0-b274-f47c1526e22c)
+
+## Classification Report:
+![tensorflow-cr](https://github.com/user-attachments/assets/1c9f3316-0fa2-46e5-af63-4b8f0a029fa2)
+
+## Model accuracy:
+![tensorflow-model-accuracy](https://github.com/user-attachments/assets/1b3e8eed-5a9b-4e2d-9e57-8123cff14089)
+
+## Model loss:
+![tensorflow-model-loss](https://github.com/user-attachments/assets/97c10b2a-9ee2-4e83-bf89-dd46b6b51945)
